@@ -1,1 +1,1 @@
-# ebac-ia-01
+"Este é um projeto de aprendizado do Git e GitHub"
